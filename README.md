@@ -50,7 +50,6 @@
 </p>
 
 - ## Feature implemented:
-- NewsApp
 - Instant search using Flow operators
     - Debounce
     - Filter
